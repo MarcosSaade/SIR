@@ -27,4 +27,5 @@ Key aspects include modeling systems of differential equations and incorporating
 2. Install the required libraries by running:
    ```bash
    pip install pygame numpy matplotlib
-
+   python3 main.py
+   ```
